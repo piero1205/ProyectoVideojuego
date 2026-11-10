@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 213a90a26cfb2174b830cdc569b2d296
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5097854733690178875
+    second: Erland_Jump_0
+  - first:
+      213: 8509311211447365678
+    second: Erland_Jump_1
+  - first:
+      213: 6036280847237560793
+    second: Erland_Jump_2
+  - first:
+      213: 8608246307765041373
+    second: Erland_Jump_3
+  - first:
+      213: 6054046814114043120
+    second: Erland_Jump_4
+  - first:
+      213: 8389143691219431972
+    second: Erland_Jump_5
+  - first:
+      213: 7132630539542453527
+    second: Erland_Jump_6
+  - first:
+      213: -718305674656280030
+    second: Erland_Jump_7
+  - first:
+      213: 7702868251137847766
+    second: Erland_Jump_8
+  - first:
+      213: -8327414656359423565
+    second: Erland_Jump_9
+  - first:
+      213: 1793205777400420658
+    second: Erland_Jump_10
+  - first:
+      213: 9128047681315853058
+    second: Erland_Jump_11
+  - first:
+      213: -1977480862546903984
+    second: Erland_Jump_12
+  - first:
+      213: -639788898731494062
+    second: Erland_Jump_13
+  - first:
+      213: -3495846599122747954
+    second: Erland_Jump_14
+  - first:
+      213: -783380158023024444
+    second: Erland_Jump_15
+  - first:
+      213: 6071307484284400422
+    second: Erland_Jump_16
+  - first:
+      213: -8077159984938967912
+    second: Erland_Jump_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Erland_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 43
+        width: 282
+        height: 723
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd837619862a67770800000000000000
+      internalID: 8608246307765041373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erland_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 372
+        width: 272
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dd7877fa13cf260800000000000000
+      internalID: 7132630539542453527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erland_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 82
+        width: 257
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1b4b4ecd516ea60800000000000000
+      internalID: 7702868251137847766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erland_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 97
+        width: 259
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a0569d741f6c80800000000000000
+      internalID: -8327414656359423565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erland_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 99
+        width: 232
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239512b572fb2e810800000000000000
+      internalID: 1793205777400420658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erland_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 220
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d8a1f0075dae70800000000000000
+      internalID: 9128047681315853058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cea7af582f37942448a16b5b81e7cb0f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Erland_Jump_0: -5097854733690178875
+      Erland_Jump_1: 8509311211447365678
+      Erland_Jump_10: 1793205777400420658
+      Erland_Jump_11: 9128047681315853058
+      Erland_Jump_12: -1977480862546903984
+      Erland_Jump_13: -639788898731494062
+      Erland_Jump_14: -3495846599122747954
+      Erland_Jump_15: -783380158023024444
+      Erland_Jump_16: 6071307484284400422
+      Erland_Jump_17: -8077159984938967912
+      Erland_Jump_2: 6036280847237560793
+      Erland_Jump_3: 8608246307765041373
+      Erland_Jump_4: 6054046814114043120
+      Erland_Jump_5: 8389143691219431972
+      Erland_Jump_6: 7132630539542453527
+      Erland_Jump_7: -718305674656280030
+      Erland_Jump_8: 7702868251137847766
+      Erland_Jump_9: -8327414656359423565
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
